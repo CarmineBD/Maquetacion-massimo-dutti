@@ -1,1 +1,45 @@
 @import "./node_modules/holygrailcss/scss/style.scss";
+
+@media (min-width: 768px) {
+    .sm\:align-center {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .md\:align-center {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+  }
+  
+  @media (min-width: 1280px) {
+    .lg\:align-center {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+  }
+  
+  @media (min-width: 1500px) {
+    .xl\:align-center {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+  }
+
+.hola-mundo{
+    background-color: red;
+}
