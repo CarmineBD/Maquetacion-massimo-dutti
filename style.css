@@ -10914,6 +10914,13 @@ ul.list-clear li.list-box:last-child {
     text-align: center;
   }
 }
-.hola-mundo {
-  background-color: red;
+.product-card {
+  background-color: #FFFFFF;
+  color: #292929;
+  margin-bottom: 16px;
+}
+
+.product-card-body {
+  min-height: 60px;
+  padding: 16px;
 }/*# sourceMappingURL=style.css.map */
