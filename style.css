@@ -1802,11 +1802,8 @@ svg-icon.ico-success path {
   .m-32 {
     margin: 32px;
   }
-  .m-40 {
-    margin: 40px;
-  }
-  .m-48 {
-    margin: 48px;
+  .m-64 {
+    margin: 64px;
   }
 }
 @media (min-width: 768px) {
@@ -1825,11 +1822,8 @@ svg-icon.ico-success path {
   .m-32 {
     margin: 32px;
   }
-  .m-40 {
-    margin: 40px;
-  }
-  .m-48 {
-    margin: 48px;
+  .m-64 {
+    margin: 64px;
   }
 }
 @media (min-width: 992px) {
@@ -1848,11 +1842,8 @@ svg-icon.ico-success path {
   .m-32 {
     margin: 32px;
   }
-  .m-40 {
-    margin: 40px;
-  }
-  .m-48 {
-    margin: 48px;
+  .m-64 {
+    margin: 64px;
   }
 }
 @media (min-width: 1280px) {
@@ -1871,11 +1862,8 @@ svg-icon.ico-success path {
   .m-32 {
     margin: 32px;
   }
-  .m-40 {
-    margin: 40px;
-  }
-  .m-48 {
-    margin: 48px;
+  .m-64 {
+    margin: 64px;
   }
 }
 @media (min-width: 1px) {
@@ -2437,26 +2425,20 @@ svg-icon.ico-success path {
   .p-0 {
     padding: 0px;
   }
-  .p-4 {
-    padding: 4px;
-  }
   .p-8 {
     padding: 8px;
   }
   .p-16 {
     padding: 16px;
   }
-  .p-20 {
-    padding: 20px;
+  .p-24 {
+    padding: 24px;
   }
-  .p-30 {
-    padding: 10px;
+  .p-32 {
+    padding: 32px;
   }
-  .p-40 {
-    padding: 40px;
-  }
-  .p-48 {
-    padding: 20px;
+  .p-64 {
+    padding: 64px;
   }
 }
 @media (min-width: 768px) {
@@ -2466,26 +2448,20 @@ svg-icon.ico-success path {
   .p-0 {
     padding: 0px;
   }
-  .p-4 {
-    padding: 4px;
-  }
   .p-8 {
     padding: 8px;
   }
   .p-16 {
     padding: 16px;
   }
-  .p-20 {
-    padding: 20px;
+  .p-24 {
+    padding: 24px;
   }
-  .p-30 {
-    padding: 30px;
+  .p-32 {
+    padding: 32px;
   }
-  .p-40 {
-    padding: 40px;
-  }
-  .p-48 {
-    padding: 50px;
+  .p-64 {
+    padding: 64px;
   }
 }
 @media (min-width: 992px) {
@@ -2495,26 +2471,20 @@ svg-icon.ico-success path {
   .p-0 {
     padding: 0px;
   }
-  .p-4 {
-    padding: 4px;
-  }
   .p-8 {
     padding: 8px;
   }
   .p-16 {
     padding: 16px;
   }
-  .p-20 {
-    padding: 20px;
+  .p-24 {
+    padding: 24px;
   }
-  .p-30 {
-    padding: 30px;
+  .p-32 {
+    padding: 32px;
   }
-  .p-40 {
-    padding: 40px;
-  }
-  .p-48 {
-    padding: 50px;
+  .p-64 {
+    padding: 64px;
   }
 }
 @media (min-width: 1280px) {
@@ -2524,26 +2494,20 @@ svg-icon.ico-success path {
   .p-0 {
     padding: 0px;
   }
-  .p-4 {
-    padding: 4px;
-  }
   .p-8 {
     padding: 8px;
   }
   .p-16 {
     padding: 16px;
   }
-  .p-20 {
-    padding: 20px;
+  .p-24 {
+    padding: 24px;
   }
-  .p-30 {
-    padding: 30px;
+  .p-32 {
+    padding: 32px;
   }
-  .p-40 {
-    padding: 40px;
-  }
-  .p-48 {
-    padding: 50px;
+  .p-64 {
+    padding: 64px;
   }
 }
 @media (min-width: 1px) {

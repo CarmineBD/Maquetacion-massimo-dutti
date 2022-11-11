@@ -1,4 +1,46 @@
+// Reemplazo de margins y padding a medidas requeridas
+// (8px, 16px, 24px, 32px, 64px)
+
+$margin: // name : margen total mobile, tablet, desktop, longdesktop
+(
+m-0: (0px, 0px, 0px, 0px),
+m-8: (8px, 8px, 8px, 8px),
+m-16: (16px, 16px, 16px, 16px),
+m-24: (24px, 24px, 24px, 24px),
+m-32: (32px, 32px, 32px, 32px),
+m-64: (64px, 64px, 64px, 64px)
+);
+
+
+$padding: 
+(
+p-body: (16px, 16px, 40px, 40px),
+p-0: (0px, 0px, 0px, 0px),
+p-8: (8px, 8px, 8px, 8px),
+p-16: (16px, 16px, 16px, 16px),
+p-24: (24px, 24px, 24px, 24px),
+p-32: (32px, 32px, 32px, 32px),
+p-64: (64px, 64px, 64px, 64px)
+);
+
 @import "./node_modules/holygrailcss/scss/style.scss";
+
+
+// medidas de margins y paddings
+
+// @media (min-width: 1px) {
+
+//     // agrego sólo el de 64 ya que es la única medida que falta
+//     // (por defecto habían 0px, 8px, 16px, 24px, 32px, 40px y 48px)
+
+//     .m-64 {
+//       margin: 64px;
+//     }
+
+//     .p-64 {
+//         padding: 64px;
+//       }
+//   }
 
 @media (min-width: 768px) {
     .sm\:align-center {
